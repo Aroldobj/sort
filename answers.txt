@@ -1,0 +1,14 @@
+sort1 uses: bubble sort
+
+How do you know?: Porque os dados já classificados são muito mais rápidos do que selecionar a classificação
+                  Becouse already sorted data it performance way faster than select sort
+
+sort2 uses: merge sort
+
+How do you know?: Porque em valores invertidos foi o algoritmo mais rápido
+                  Because on reversed values it was the fastest algorithm
+
+sort3 uses: selection sort
+
+How do you know?: Porque para dados ordenados teve aproximadamente o mesmo tempo que para dados invertidos ou não ordenados
+                  Because for sorted data it had about the same time as for reversed or unsorted data
